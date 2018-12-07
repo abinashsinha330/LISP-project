@@ -1,9 +1,6 @@
 ;;;; Title : user-define structure of state_info
 
 ;;;; Author: Abinash Sinha
-;;;; x500  : sinha160@umn.edu
-;;;; Artificial Intelligence I (CSCI 5511)
-;;;; Date  : 6 December 2018
 
 ;;; structure to represent state_info of the problem
 (defstruct state_info

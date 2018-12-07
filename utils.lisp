@@ -1,9 +1,6 @@
 ;;;; Title : utils file having utility functions
 
 ;;;; Author: Abinash Sinha
-;;;; x500  : sinha160@umn.edu
-;;;; Artificial Intelligence I (CSCI 5511)
-;;;; Date  : 6 December 2018
 
 
 ;;; function to get state in co-ordinate format (2D representation with co-ordinates of each tile identified)

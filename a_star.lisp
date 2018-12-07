@@ -1,9 +1,6 @@
 ;;;; Title : A* search algorithm
 
 ;;;; Author: Abinash Sinha
-;;;; x500  : sinha160@umn.edu
-;;;; Artificial Intelligence I (CSCI 5511)
-;;;; Submission Date  : 6 December 2018
 
 ;; declare goal state and start state as global variables
 ;; last element in the list represents index of 0

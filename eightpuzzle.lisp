@@ -1,9 +1,6 @@
 ;;;; Title : 8 puzzle solver using A* search algorithm
 
 ;;;; Author: Abinash Sinha
-;;;; x500  : sinha160@umn.edu
-;;;; Artificial Intelligence I (CSCI 5511)
-;;;; Date  : 6 December 2018
 
 
 ; (solve-8puzzle '(8 1 2 0 4 3 7 6 5)) ; infeasible

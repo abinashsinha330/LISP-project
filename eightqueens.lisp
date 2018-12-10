@@ -1,10 +1,6 @@
 ;;;; Title : file containing logic of hill-climbing search to solve N-queens puzzle
 
 ;;;; Author: Abinash Sinha
-;;;; x500  : sinha160@umn.edu
-;;;; Student ID: 5509887
-;;;; Artificial Intelligence I (CSCI 5511)
-;;;; Date  : 11 December 2018 6:30pm
 
 
 
